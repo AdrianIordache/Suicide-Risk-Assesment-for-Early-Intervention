@@ -1,6 +1,6 @@
 __pycache__
 
 dl/*
-dl/metric_results/*
+dl/metrics_results/*
 dl/results/*
 dl/wandb/*

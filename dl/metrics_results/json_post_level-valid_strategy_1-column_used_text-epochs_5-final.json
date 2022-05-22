@@ -1,1 +1,0 @@
-{"accuracy": 0.299, "precision": 0.497, "recall": 0.429, "ord_error": 0.184, "level": "post", "valid_strategy": 1, "column_used": "text", "epochs": 5}

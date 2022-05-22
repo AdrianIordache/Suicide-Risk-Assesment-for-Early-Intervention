@@ -1,0 +1,1 @@
+{"accuracy": 0.42, "precision": 0.656, "recall": 0.538, "ord_error": 0.14, "level": "user", "valid_strategy": 2, "column_used": "social_prepocessed_text", "epochs": 5}

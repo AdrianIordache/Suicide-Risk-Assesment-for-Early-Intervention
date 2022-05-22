@@ -1,1 +1,0 @@
-{"accuracy": 0.476, "precision": 0.711, "recall": 0.59, "ord_error": 0.129, "level": "user", "valid_strategy": 1, "column_used": "social_prepocessed_text", "epochs": 5, "pretrained_weights": "distilbert-base-uncased"}

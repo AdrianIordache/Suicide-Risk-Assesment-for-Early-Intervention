@@ -25,7 +25,10 @@ from IPython.display import display
 
 from sklearn.svm import SVC
 from sklearn.naive_bayes import GaussianNB
-from sklearn.utils.testing import ignore_warnings
+try:
+	from sklearn.utils.testing import ignore_warnings
+except:
+	from sklearn.utils._testing import ignore_warnings
 from sklearn.exceptions import ConvergenceWarning
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, StackingClassifier

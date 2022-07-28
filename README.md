@@ -10,7 +10,7 @@ Reviewed here: [Paper Review](https://github.com/AdrianIordache/BioMedical-NLP/b
 
 Comparing Machine Learning aproches (e.g. Weighted Voting Ensambles) and Deep Learning models (e.g. Transformer Models: DistiBert).
 
-The Machine Learning section was implemented by Adrian Iordache, and the Deep Learning side is based on the work of [Andrei Gîdea](https://github.com/andreiG98).
+The Machine Learning section was implemented by [Adrian Iordache](https://github.com/AdrianIordache), and the Deep Learning side is based on the work of [Andrei Gîdea](https://github.com/andreiG98).
 
 ### Machine Learning Results
 

@@ -1,4 +1,4 @@
-# Sucide Risk Assesment for Early Intervention
+# Suicide Risk Assesment for Early Intervention
 ### BioMedical-NLP
 
 Classifying Reddit Users in groups of suicide risk for possible early intervention based on their posts. 
